@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+
+html {
+    @include typi('base');
+    font-family: "Montserrat", "Helvetica", Arial, sans-serif;
+  }
+h1 {
+	@include typi('h1');
+}
+
+h2 {
+	@include typi('h2');
+}
+
+h3 {
+	@include typi('h3');
+}

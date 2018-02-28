@@ -1,0 +1,21 @@
+// ========= ABOUT ME STYLES ===========
+#about {
+  & p {
+    padding: 1em;
+  }
+}
+#about > img {
+  display: block;
+  margin: 0 auto;
+  // height: 30%;
+  height: auto;
+  width: 150px;
+  color: white;
+  border-radius: 15px;
+}
+
+
+
+
+  
+  // ========= END ABOUT ME STYLES ===========
